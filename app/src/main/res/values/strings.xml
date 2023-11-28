@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Contatos</string>
+    <string name="add_contact">Adicionar contato</string>
+    <string name="name">Nome</string>
+    <string name="address">Endereço</string>
+    <string name="phone">Telefone</string>
+    <string name="email">E-mail</string>
+    <string name="save">Salvar</string>
+    <string name="contact_details">Detalhes do contato</string>
+    <string name="contact_list">Lista com contatos</string>
+    <string name="remove_contact">Remover contato</string>
+    <string name="edit_contact">Editar contato</string>
+</resources>
